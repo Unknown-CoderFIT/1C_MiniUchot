@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиОборудования" id="e547205f-b321-4cc5-bb09-e7a5877c0159" configVersion="2819ec2aa9b09c4596792ad9be4f35bd00000000">
+			<Metadata name="AccumulationRegister.ОстаткиОборудования.Dimension.Оборудование" id="08473c1d-fe54-4fc1-880f-adc159fa0d47"/>
+			<Metadata name="AccumulationRegister.ОстаткиОборудования.Dimension.Склад" id="552aed11-270a-4bc8-89d4-79afe80f8d4f"/>
+			<Metadata name="AccumulationRegister.ОстаткиОборудования.Resource.Количество" id="fc6aa5f4-f1f5-48ef-a2a5-2a47e4895bd4"/>
+		</Metadata>
+		<Metadata name="Catalog.Оборудование" id="5dcf1416-1ac3-45b5-95d3-0ac4143ec349" configVersion="1ea91f34b2480e4299ffc41ab56780d300000000">
+			<Metadata name="Catalog.Оборудование.Attribute.Статус" id="04e38269-e482-4f0c-ae50-809c696694fb"/>
+			<Metadata name="Catalog.Оборудование.Attribute.Модель" id="11fbf4b5-316c-4166-a156-1e2e9c5b3a77"/>
+			<Metadata name="Catalog.Оборудование.Attribute.Производитель" id="1c58cdc3-b6fa-4c33-88cf-da1607806c44"/>
+		</Metadata>
+		<Metadata name="Catalog.Склады" id="4eba6d5c-2b2d-40e2-b7d8-88c75b6fd2f6" configVersion="7d0324ef36a3114e84f6f3ade48644a600000000">
+			<Metadata name="Catalog.Склады.Attribute.Адрес" id="e938a1e8-9c2b-4453-89bd-a70dae610976"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="c2dd6714-5a93-499b-9b5a-00c071fcffd0" configVersion="a8ec54884a3f4f438196c697d92c00f300000000"/>
+		<Metadata name="Document.ПоступлениеОборудования" id="ac18e2ba-5a6d-4481-b41c-bb29ed662d96" configVersion="9ffe4bbdc33538498483f0bc784dbe0b00000000">
+			<Metadata name="Document.ПоступлениеОборудования.TabularSection.Оборудование.Attribute.Номенклатура" id="84fdd8fa-35b6-45fa-9023-a9e941b80419"/>
+			<Metadata name="Document.ПоступлениеОборудования.TabularSection.Оборудование.Attribute.Количество" id="9bf312c5-7c99-4a12-aa18-52866bce60cf"/>
+			<Metadata name="Document.ПоступлениеОборудования.Attribute.Склад" id="cd8a4fd4-4fec-48f8-978c-53636ccedfe9"/>
+			<Metadata name="Document.ПоступлениеОборудования.TabularSection.Оборудование" id="f262c5a1-dc03-4d29-8049-592a185011e8"/>
+		</Metadata>
+		<Metadata name="Document.ПоступлениеОборудования.ObjectModule" id="ac18e2ba-5a6d-4481-b41c-bb29ed662d96.0" configVersion="c2839e5191f7dd44971d16e58fa828d500000000"/>
+		<Metadata name="Enum.СтатусыОборудования" id="25e57270-c99d-40f8-a59c-53d03777685c" configVersion="6f52d717aa45f641abff34dde6420f4200000000">
+			<Metadata name="Enum.СтатусыОборудования.EnumValue.ВЭксплуатации" id="3091cd38-5eac-4ff5-995e-5f6bfea4edf3"/>
+			<Metadata name="Enum.СтатусыОборудования.EnumValue.НаСкладе" id="355c5e54-18e0-40d6-827f-b289c52b0250"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="1d8a0265-b313-4a46-a365-37b12357109f" configVersion="1636c0e058c7704c90c43fd9ef5de8b300000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
